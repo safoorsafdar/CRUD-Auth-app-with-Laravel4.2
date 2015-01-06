@@ -4,17 +4,17 @@ CRUD And Authentication Application Laravel 4.2, is the Laravel demo web applica
 
 #####Table of Contents
 Installing Lravel 4.2
-..*System Requirement
-..*Installing Composer
-..*Creating Laravel Project
+  *System Requirement
+  *Installing Composer
+  *Creating Laravel Project
 Basic Laravel Components
-..*Creating A Migration
-..*Creating A Seeder
-..*Creating A Model
-..*Creating A Controll
-....*Resource Controller
-....*Implicit Controller
-..*Creating A View
+  *Creating A Migration
+  *Creating A Seeder
+  *Creating A Model
+  *Creating A Controll
+    *Resource Controller
+    *Implicit Controller
+    *Creating A View
 
 
 
