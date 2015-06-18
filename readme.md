@@ -12,12 +12,12 @@ CRUD And Authentication Application Laravel 4.2, is the demo web application tha
 - Creating A Migration
 - Creating A Seeder
 - Creating A Model
-- Creating A Controll
+- Creating A Control
     * Resource Controller
     * Implicit Controller
 - Creating A View
 
-####Installing Lravel 4.2
+####Installing Laravel 4.2
 ---
 #####Server Requirement
 Below are the list of requirement to configure Laravel Framework.
@@ -45,7 +45,7 @@ Read More:[Creating Migration](http://laravel.com/docs/4.2/migrations#creating-m
 <br>In some cases if you update your schema and you want to update these schema changes to your database, you need to refresh migration schema via ``php artisan migrate:refresh``.
 <br>Read More:[Laravel Migrations](http://laravel.com/docs/4.2/migrations#introduction)
 #####Creating A Seeder
-Laravel Seeding Classess mechanism provides you to seeds your database table with test data which is store under ``app/database/seeds``. Seeder class only contain single method with run. By default DataBaseSeeder class defined, you just need to call your newly created seeder file in run mehtod. And your created seed file contain your dummy data to insert into your database table under run method.
+Laravel Seeding Classes mechanism provides you to seeds your database table with test data which is store under ``app/database/seeds``. Seeder class only contain single method with run. By default DataBaseSeeder class defined, you just need to call your newly created seeder file in run mehtod. And your created seed file contain your dummy data to insert into your database table under run method.
 <br>Once you create your seed file, you can run a command to make achuall changes to your database via ``php artisan db:seed`` which will run all seeders file under seeds directory, similar if you want to run sepecific seeder file, you can use ``php artisan db:seed --class=[Name]``.
 <br>Read More: [Laravel Seeder](http://laravel.com/docs/4.2/migrations#database-seeding)
 #####Creating A Model
