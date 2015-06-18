@@ -9,6 +9,7 @@ CRUD And Authentication Application Laravel 4.2, is the demo web application tha
 - Creating Laravel Project
 
 ######Basic Laravel Components
+---
 - Creating A Migration
 - Creating A Seeder
 - Creating A Model
