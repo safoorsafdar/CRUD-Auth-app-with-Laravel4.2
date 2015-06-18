@@ -3,7 +3,7 @@
 CRUD And Authentication Application Laravel 4.2, is the demo web application that will enable to perform simple CRUD(Create,Read,Update and Delete) operation and Authentication. This application takes you through the in's and out's of the Laravel Framework, from basic to some advanced features. Either you're newbie to laravel or to MVC application structure, this tutorial provides you a great foundation.
 
 #####Table of Contents
-######Installing Lravel 4.2
+######Installing Laravel 4.2
 - Server Requirement
 - Installing Composer
 - Creating Laravel Project
